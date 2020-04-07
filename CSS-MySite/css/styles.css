@@ -1,0 +1,133 @@
+
+body { margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+
+}
+
+
+h1 {margin-top:  50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  color: #ffa34d;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #ffa34d;
+    padding-bottom: 10px;
+}
+
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+color: #ff5151;}
+
+.profile {
+  padding-top: 30px;
+}
+
+p {
+  line-height: 2
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+a {
+  color: #f67280;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffe75e;
+}
+
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.top {
+  position: relative;
+  padding-top: 100px;
+  background-color: #F4DADA;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom {}
+
+.pro {text-decoration: underline;}
+
+.bottomcloud {
+  position: absolute;
+  top: 250px;
+  left: 150px;
+}
+
+.topcloud {
+  position: absolute;
+  top: 60px;
+  left: 700px;
+}
+
+.cribbage {
+  height: 250px;
+  width: 250px;
+}
+
+.Lips {
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+
+
+.poker-cards {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.glittery {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.copyright {
+  color: #f67280;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.contact-me {
+  width: 40%;
+margin: auto;
+}
+
+.bottom-container {
+  background-color:  #F4DADA;
+  padding: 50px 0 20px;
+}
